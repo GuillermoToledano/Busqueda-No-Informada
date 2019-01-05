@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6689201-5f0c-4385-affb-3a2e4e8c9f70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree.py" afterDir="false" />
-    </list>
+    <list default="true" id="f6689201-5f0c-4385-affb-3a2e4e8c9f70" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +80,11 @@
             <path>
               <item name="Busqueda_NoInformada" type="b2602c69:ProjectViewProjectNode" />
               <item name="Busqueda_NoInformada" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Busqueda_NoInformada" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Busqueda_NoInformada" type="462c0819:PsiDirectoryNode" />
+              <item name="Busqueda_Amplitud" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,12 +197,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546663384652</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tree file includes Node Class">
+      <created>1546665610588</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546665610588</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -264,7 +273,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Commit Tree file, includes Node Class" />
     <MESSAGE value="Busqueda en Amplitud - Breadth First Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Busqueda en Amplitud - Breadth First Search" />
+    <MESSAGE value="Tree file includes Node Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree file includes Node Class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
