@@ -1,9 +1,5 @@
 class Node:
     def __init__(self, data, child=None):
-        """
-
-        :rtype: object
-        """
         self.data = data
         self.child = None
         self.fathr = None
