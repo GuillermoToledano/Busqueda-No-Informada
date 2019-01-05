@@ -49,7 +49,7 @@ if __name__ == "__main__":
     # mostrar resultado
     result = []
     node = solution_node
-    while node.get_fathr() != None:
+    while node.get_fathr() is not None:
         result.append(node.get_data())
         node = node.get_fathr()
     result.append(init_state)
