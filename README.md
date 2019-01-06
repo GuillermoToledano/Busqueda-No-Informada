@@ -1,4 +1,4 @@
-# Busqueda_No_Informada
+# Busqueda No Informada
 Algoritmos de Busqueda No Informada implementados en Python 3.
 
 Bibliografía:
